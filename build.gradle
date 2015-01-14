@@ -9,7 +9,7 @@ buildscript {
 
 apply plugin: "com.bancvue.core-oss"
 apply plugin: "com.bancvue.component-test"
-apply plugin: 'com.bancvue.maven-ext'
+apply plugin: 'com.bancvue.maven-publish-ext'
 
 repositories {
 	mavenCentral()
